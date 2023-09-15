@@ -1,0 +1,20 @@
+.header-content{
+    min-height: 90vh;
+
+    background: linear-gradient(rgba(25, 255, 63, 0.274), rgba(40, 116, 146, 0.5)), url("../../images/home.png") center;
+    background-repeat: no-repeat;
+    background-size: auto;
+
+    flex-direction: column;
+}
+.header-title{
+    font-size: 4.2rem;
+    padding-bottom: 50px;
+}
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+    
+}
